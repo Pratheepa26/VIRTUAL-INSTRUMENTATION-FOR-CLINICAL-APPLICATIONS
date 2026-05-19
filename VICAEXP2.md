@@ -24,6 +24,8 @@ To perform Boolean operations (AND, OR, XOR, NOT, NAND) using LabVIEW.
 ---
 
 ##  Front Panel Layout
+<img width="1090" height="884" alt="image" src="https://github.com/user-attachments/assets/44b214c4-5b37-4d00-b898-7ae5e9b89f16" />
+
 
 <img width="607" height="554" alt="image" src="https://github.com/user-attachments/assets/16715e72-06dd-481f-8ed5-b945f22e4c93" />
 
