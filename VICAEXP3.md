@@ -38,7 +38,8 @@ To find the sum of 'n' numbers using a FOR loop in LabVIEW.
 
 ##  Output
 
-<img width="1920" height="1200" alt="VICAEXP3" src="https://github.com/user-attachments/assets/fda6f26c-8b20-4553-b90a-8955c9f4d1c2" />
+<img width="1257" height="742" alt="Screenshot 2026-05-21 220445" src="https://github.com/user-attachments/assets/5e0952f6-3cdc-4865-9cbd-2d2391791ce7" />
+
 
 
 ##  Result
