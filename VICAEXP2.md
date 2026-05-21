@@ -82,7 +82,8 @@ To perform Boolean operations (AND, OR, XOR, NOT, NAND) using LabVIEW.
 
 ##  Output
 
-<img width="1920" height="1200" alt="VICAEXP2" src="https://github.com/user-attachments/assets/0f0a9137-eaef-4cba-97a2-b2078483949e" />
+<img width="1257" height="745" alt="Screenshot 2026-05-21 220304" src="https://github.com/user-attachments/assets/bf145ee5-567a-40a1-9a37-e74887fd1766" />
+
 
 ##  Result
 
